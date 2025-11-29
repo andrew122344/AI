@@ -1,6 +1,6 @@
 require 'telegram/bot'
 
-TOKEN = '7995020719:AAHf1ARdqj8vug844WFcNyPB4LP-9PovEs0' 
+TOKEN = '8548165350:AAFdUqYB8G2GpZEW-vO5U1quuFF-9CVjuqM' 
 
 def random_quote
   quotes = File.readlines('quotes.txt', chomp: true)
